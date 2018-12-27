@@ -65,14 +65,14 @@
     "action": "itms-apps:\/\/search.itunes.apple.com\/WebObjects\/MZSearch.woa\/wa\/search?media=software&term=[clipboard]"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "Appstore中国区",
     "type": "custom",
     "action": "https:\/\/itunes.apple.com\/cn\/app\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "Appstore美国区",
     "type": "custom",
@@ -128,28 +128,28 @@
     "action": "caiyunapppro:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "饿了么",
     "type": "custom",
     "action": "eleme:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "Feedly",
     "type": "custom",
     "action": "feedly:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "Fing",
     "type": "custom",
     "action": "fing:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "纷享销客",
     "type": "custom",
@@ -170,7 +170,7 @@
     "action": "iosamap:\/\/openFeature?featureName=Subway&sourceApplication=iosamap&page=Subway&adcode=420100"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "高德地图搜索POI",
     "type": "custom",
@@ -247,7 +247,7 @@
     "action": "launcherpro:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "Pin抓图",
     "type": "custom",
@@ -345,7 +345,7 @@
     "action": "vpn:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "WakeOnLan",
     "type": "custom",
@@ -380,35 +380,35 @@
     "action": "weibointernational:\/\/search?keyword="
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "微信扫二维码",
     "type": "custom",
     "action": "weixin:\/\/scanqrcode"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "瘟疫公司Plague.Inc",
     "type": "custom",
     "action": "plagueinc:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "下厨房",
     "type": "custom",
     "action": "xcfapp:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "许多卡",
     "type": "custom",
     "action": "stocard:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "小京鱼",
     "type": "custom",
@@ -450,7 +450,7 @@
     "action": "alipay:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "支付宝乘车码",
     "type": "custom",
@@ -464,7 +464,7 @@
     "action": "alipay:\/\/platformapi\/startapp?saId=10000003"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "支付宝滴滴",
     "type": "custom",
@@ -478,14 +478,14 @@
     "action": "alipay:\/\/platformapi\/startapp?saId=20000056"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "支付宝哈罗单车",
     "type": "custom",
     "action": "alipays:\/\/platformapi\/startapp?appId=2017050407110255&chInfo=ch_desktop"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "支付宝卡包",
     "type": "custom",
@@ -513,7 +513,7 @@
     "action": "alipay:\/\/platformapi\/startapp?appId=66666674"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "支付宝扫二维码",
     "type": "custom",
@@ -541,28 +541,28 @@
     "action": "alipayqr:\/\/platformapi\/startapp?saId=20000116"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "知乎",
     "type": "custom",
     "action": "zhihu:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "知乎搜索",
     "type": "custom",
     "action": "zhihu:\/\/search?q="
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "智能公交",
     "type": "custom",
     "action": "wbus:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "追书神器旧版",
     "type": "custom",
@@ -590,7 +590,7 @@
     "action": "psbcmbank:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": -1,
     "name": "银行-招商",
     "type": "custom",
@@ -709,7 +709,7 @@
     "action": "itms-beta:\/\/"
     },
     {
-    "isDeleted": false,
+    "isDeleted": true,
     "sortNum": 2,
     "name": "系统-设置",
     "type": "custom",

@@ -1,0 +1,754 @@
+{
+  "name" : "app-Prefs",
+  "settings" : [
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Open URL Scheme from Clipboard.",
+    "type": "clipboard",
+    "action": "Open URL Scheme from Clipboard."
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "JSON tree view.",
+    "type": "clipboard",
+    "action": "FastOpenJSON:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "10086",
+    "type": "custom",
+    "action": "G4Manager:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "12306",
+    "type": "custom",
+    "action": "cn.12306:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "AppBox Pro",
+    "type": "custom",
+    "action": "appboxpro:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Apabi Reader",
+    "type": "custom",
+    "action": "reader.apabi:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "App Store",
+    "type": "custom",
+    "action": "itms-apps:\/\/itunes.apple.com\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Appstore兑换剪贴板中的兑换码",
+    "type": "custom",
+    "action": "https:\/\/buy.itunes.apple.com\/WebObjects\/MZFinance.woa\/wa\/freeProductCodeWizard?mt=8&code=[clipboard]"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Appstore搜索App",
+    "type": "custom",
+    "action": "itms-apps:\/\/search.itunes.apple.com\/WebObjects\/MZSearch.woa\/wa\/search?media=software&term=[clipboard]"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "Appstore中国区",
+    "type": "custom",
+    "action": "https:\/\/itunes.apple.com\/cn\/app\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "Appstore美国区",
+    "type": "custom",
+    "action": "https:\/\/itunes.apple.com\/us\/app\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "百度网盘",
+    "type": "custom",
+    "action": "baidunetdisk:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "笔趣阁(CN版)",
+    "type": "custom",
+    "action": "mtebook:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "石头阅读(BQG)",
+    "type": "custom",
+    "action": "stonebiquge:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "嘀嗒清单",
+    "type": "custom",
+    "action": "dida:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "抖音",
+    "type": "custom",
+    "action": "wb1462309810:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "抖音国际版",
+    "type": "custom",
+    "action": "snssdk180:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "彩云天气Pro",
+    "type": "custom",
+    "action": "caiyunapppro:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "饿了么",
+    "type": "custom",
+    "action": "eleme:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "Feedly",
+    "type": "custom",
+    "action": "feedly:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "Fing",
+    "type": "custom",
+    "action": "fing:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "纷享销客",
+    "type": "custom",
+    "action": "com.facishare.iphone:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "高德地图",
+    "type": "custom",
+    "action": "iosamap:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "高德地铁图(武汉)",
+    "type": "custom",
+    "action": "iosamap:\/\/openFeature?featureName=Subway&sourceApplication=iosamap&page=Subway&adcode=420100"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "高德地图搜索POI",
+    "type": "custom",
+    "action": "iosamap:\/\/poi?sourceApplication=pin&backScheme=pin:&name=[clipboard]"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "观察者",
+    "type": "custom",
+    "action": "guanchazhe:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "逛丢",
+    "type": "custom",
+    "action": "tbopen23196452:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "海拔气压表",
+    "type": "custom",
+    "action": "iosdevaltitude:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "和悦会",
+    "type": "custom",
+    "action": "hyhapp:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Instapaper(1)",
+    "type": "custom",
+    "action": "instapaper:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Instapaper(2)",
+    "type": "custom",
+    "action": "ihttp:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "交管12123",
+    "type": "custom",
+    "action": "tmri12123:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "界面新闻",
+    "type": "custom",
+    "action": "jiemian:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "联掌门户",
+    "type": "custom",
+    "action": "lzmh:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Magic Launcher Pro",
+    "type": "custom",
+    "action": "launcherpro:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "Pin抓图",
+    "type": "custom",
+    "action": "pin:\/\/gifsender?src=auto"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "PocketFiles",
+    "type": "custom",
+    "action": "pocketFiles:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Price Tag",
+    "type": "custom",
+    "action": "pricetag:\/\/pricedrop"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "QQ国际版",
+    "type": "custom",
+    "action": "mqqiwpa:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "QQ邮箱",
+    "type": "custom",
+    "action": "qqmail:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "RD Client",
+    "type": "custom",
+    "action": "rdp-intunemam:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Simplenote",
+    "type": "custom",
+    "action": "simplenote:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "什么值得买",
+    "type": "custom",
+    "action": "smzdm:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "蜻蜓FM",
+    "type": "custom",
+    "action": "qingtingfm:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Reeder 3",
+    "type": "custom",
+    "action": "reeder:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "SpeedTest",
+    "type": "custom",
+    "action": "speedtest:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "Termius",
+    "type": "custom",
+    "action": "serverauditor:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "天天象棋",
+    "type": "custom",
+    "action": "qqproduct004.10000:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "VPN",
+    "type": "custom",
+    "action": "vpn:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "WakeOnLan",
+    "type": "custom",
+    "action": "mochavnc:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "微博国际版",
+    "type": "custom",
+    "action": "weibointernational:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "微博国际版发微博",
+    "type": "custom",
+    "action": "weibointernational:\/\/compose?content=[clipboard]"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "微博国际版扫二维码",
+    "type": "custom",
+    "action": "weibointernational:\/\/qrcode"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "微博国际版搜索剪贴板",
+    "type": "clipboard",
+    "action": "weibointernational:\/\/search?keyword="
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "微信扫二维码",
+    "type": "custom",
+    "action": "weixin:\/\/scanqrcode"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "瘟疫公司Plague.Inc",
+    "type": "custom",
+    "action": "plagueinc:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "下厨房",
+    "type": "custom",
+    "action": "xcfapp:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "许多卡",
+    "type": "custom",
+    "action": "stocard:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "小京鱼",
+    "type": "custom",
+    "action": "jdsmart:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "喜马拉雅FM",
+    "type": "custom",
+    "action": "iting:\/\/i"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "小熊油耗",
+    "type": "custom",
+    "action": "wb253150340:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "云闪付",
+    "type": "custom",
+    "action": "wx82582d2ace426da2:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "一个木涵Cerulean",
+    "type": "custom",
+    "action": "cerulean:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝",
+    "type": "custom",
+    "action": "alipay:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "支付宝乘车码",
+    "type": "custom",
+    "action": "alipayqr:\/\/platformapi\/startapp?saId=200011235"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝充值中心",
+    "type": "custom",
+    "action": "alipay:\/\/platformapi\/startapp?saId=10000003"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "支付宝滴滴",
+    "type": "custom",
+    "action": "alipay:\/\/platformapi\/startapp?appId=20000778"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝付款码",
+    "type": "custom",
+    "action": "alipay:\/\/platformapi\/startapp?saId=20000056"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "支付宝哈罗单车",
+    "type": "custom",
+    "action": "alipays:\/\/platformapi\/startapp?appId=2017050407110255&chInfo=ch_desktop"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "支付宝卡包",
+    "type": "custom",
+    "action": "alipayqr:\/\/platformapi\/startapp?saId=20000021"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝蚂蚁会员",
+    "type": "custom",
+    "action": "alipays:\/\/platformapi\/startapp?appId=20000160"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝蚂蚁森林",
+    "type": "custom",
+    "action": "alipay:\/\/platformapi\/startapp?appId=60000002"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝蚂蚁庄园",
+    "type": "custom",
+    "action": "alipay:\/\/platformapi\/startapp?appId=66666674"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "支付宝扫二维码",
+    "type": "custom",
+    "action": "alipayqr:\/\/platformapi\/startapp?saId=10000007"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝收款码",
+    "type": "custom",
+    "action": "alipays:\/\/platformapi\/startapp?appId=20000123"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝运动",
+    "type": "custom",
+    "action": "alipays:\/\/platformapi\/startapp?appId=20000869"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "支付宝转账",
+    "type": "custom",
+    "action": "alipayqr:\/\/platformapi\/startapp?saId=20000116"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "知乎",
+    "type": "custom",
+    "action": "zhihu:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "知乎搜索",
+    "type": "custom",
+    "action": "zhihu:\/\/search?q="
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "智能公交",
+    "type": "custom",
+    "action": "wbus:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "追书神器旧版",
+    "type": "custom",
+    "action": "mjiubanzssq:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "银行-工行",
+    "type": "custom",
+    "action": "com.icbc.iphoneclient:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "银行-工行融e联",
+    "type": "custom",
+    "action": "cn.com.icbc.customerIM:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "银行-邮储",
+    "type": "custom",
+    "action": "psbcmbank:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": -1,
+    "name": "银行-招商",
+    "type": "custom",
+    "action": "cmbmobilebank:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-菜鸟裹裹",
+    "type": "custom",
+    "action": "cainiao:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-盒马",
+    "type": "custom",
+    "action": "wdkhema:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-京东",
+    "type": "custom",
+    "action": "openapp.jdmobile:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-考拉",
+    "type": "custom",
+    "action": "kaola:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-苏宁",
+    "type": "custom",
+    "action": "suning:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-淘宝",
+    "type": "custom",
+    "action": "taobao:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-淘宝搜商品",
+    "type": "custom",
+    "action": "taobao:\/\/s.taobao.com\/q="
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-淘宝搜店铺",
+    "type": "custom",
+    "action": "taobao:\/\/shopsearch.taobao.com\/browse/shop_search.htm?q="
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "购物-天猫",
+    "type": "custom",
+    "action": "tmall:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-备忘录",
+    "type": "custom",
+    "action": "mobilenotes:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-地图",
+    "type": "custom",
+    "action": "maps:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-捷径",
+    "type": "custom",
+    "action": "shortcuts:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-运行捷径",
+    "type": "custom",
+    "action": "shortcuts:\/\/run-shortcut?name="
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-健康",
+    "type": "custom",
+    "action": "x-apple-health:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-钱包",
+    "type": "custom",
+    "action": "shoebox:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-TestFlight",
+    "type": "custom",
+    "action": "itms-beta:\/\/"
+    },
+    {
+    "isDeleted": false,
+    "sortNum": 2,
+    "name": "系统-设置",
+    "type": "custom",
+    "action": "App-Prefs:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-提醒事项",
+    "type": "custom",
+    "action": "x-apple-reminder:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-文件",
+    "type": "custom",
+    "action": "shareddocuments:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-相册",
+    "type": "custom",
+    "action": "photos-redirect:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-邮件",
+    "type": "custom",
+    "action": "Message:\/\/"
+    },
+    {
+    "isDeleted": true,
+    "sortNum": -1,
+    "name": "系统-音乐",
+    "type": "custom",
+    "action": "music:\/\/"
+    }
+  ]
+}
